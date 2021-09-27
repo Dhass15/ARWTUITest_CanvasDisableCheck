@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ARWT",
+"productVersion": "0.1",
+"dataUrl": "ARWTUITest_CanvasDisableCheck.data.unityweb",
+"wasmCodeUrl": "ARWTUITest_CanvasDisableCheck.wasm.code.unityweb",
+"wasmFrameworkUrl": "ARWTUITest_CanvasDisableCheck.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
